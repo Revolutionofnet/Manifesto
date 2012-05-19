@@ -3,7 +3,7 @@
 body {
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#777;
+  color:#333;
   font-weight:300;
   /* IE10 */ 
 background-image: -ms-radial-gradient(center top, ellipse cover, #FFFFFF 0%, #AAAAAA 100%);
